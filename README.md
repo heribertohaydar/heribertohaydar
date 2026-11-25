@@ -1,8 +1,12 @@
-- 👋 Hi, I’m Heriberto Haydar / Working as Dev Lead.
-- 👀 I’m interested in data projects
-- 🌱 I’m currently working with Azure & GCP data services, building data-drive projects
+# Hi, I'm Heriberto Haydar
 
-- 📫 How to reach me: email me heriberto.haydar@gmail.com
+**Technology & Engineering Lead | Data Platforms | AI & Software Engineering**
 
-This repo is for my personal dev projects
-😃
+- 👋 Technology professional with 30 years of experience building software and leading engineering teams.
+- 🔍 Interested in software architecture, data engineering, AI, and emerging technologies.
+- 🌱 Exploring AI-powered applications, intelligent systems, cloud data platforms, and modern engineering practices.
+- 🛠️ Working with Azure, Google Cloud, data services, and software solutions.
+- 💻 Building personal projects to experiment, learn, and put new technologies into practice.
+- 📫 Reach me at [heriberto.haydar@gmail.com](mailto:heriberto.haydar@gmail.com).
+
+This repository is where I build, experiment, and explore ideas through code.
